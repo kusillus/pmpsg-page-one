@@ -4,8 +4,8 @@
   "description": "Microfrontend test 1 Pagina 1",
   "main": "index.js",
   "scripts": {
-    "dev": "vue serve page_one.vue",
-    "build": "vue build page_one.vue",
+    "dev": "vue serve page-one.vue",
+    "build": "vue build --target wc page-one.vue",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
