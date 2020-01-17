@@ -1,8 +1,17 @@
 <meta charset="utf-8">
 <title>page-one demo</title>
 <script src="https://unpkg.com/vue"></script>
-<script src="./page-one.js"></script>
+<script src="./page-one.umd.js"></script>
 
 
-<page-one></page-one>
+<div id="app">
+  <demo></demo>
+</div>
 
+<script>
+new Vue({
+  components: {
+    demo: page-one
+  }
+}).$mount('#app')
+</script>
