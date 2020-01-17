@@ -1,0 +1,1 @@
+.mf-wrapper-page{background:orange;width:100%}.mf-wrapper-page .message{animation:changeColor 1s infinite alternate}@keyframes changeColor{to{background-color:#ff0}0%{background-color:#9acd32}}

@@ -1,0 +1,28 @@
+{
+  "name": "page-one",
+  "version": "1.0.0",
+  "description": "Microfrontend test 1 Pagina 1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vue serve page_one.vue",
+    "build": "vue build page_one.vue",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusillus/pmpsg-page-one.git"
+  },
+  "keywords": [
+    "microfrontend"
+  ],
+  "author": "kusillus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusillus/pmpsg-page-one/issues"
+  },
+  "homepage": "https://github.com/kusillus/pmpsg-page-one#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2"
+  }
+}
