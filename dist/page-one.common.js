@@ -514,12 +514,12 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: /Users/kusillus/.config/yarn/global/node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"7a432754-vue-loader-template"}!/Users/kusillus/.config/yarn/global/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!/Users/kusillus/.config/yarn/global/node_modules/cache-loader/dist/cjs.js??ref--0-0!/Users/kusillus/.config/yarn/global/node_modules/vue-loader/lib??vue-loader-options!./page-one.vue?vue&type=template&id=08a5d648&
+// CONCATENATED MODULE: /Users/kusillus/.config/yarn/global/node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"7a432754-vue-loader-template"}!/Users/kusillus/.config/yarn/global/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!/Users/kusillus/.config/yarn/global/node_modules/cache-loader/dist/cjs.js??ref--0-0!/Users/kusillus/.config/yarn/global/node_modules/vue-loader/lib??vue-loader-options!./page-one.vue?vue&type=template&id=f311f2d4&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"mf-wrapper-page"},[_vm._v("\n    hola soy la página 1\n    "),_c('span',{staticClass:"message"},[_vm._v("\n        "+_vm._s(_vm.saludo)+"\n    ")])])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./page-one.vue?vue&type=template&id=08a5d648&
+// CONCATENATED MODULE: ./page-one.vue?vue&type=template&id=f311f2d4&
 
 // CONCATENATED MODULE: /Users/kusillus/.config/yarn/global/node_modules/thread-loader/dist/cjs.js!/Users/kusillus/.config/yarn/global/node_modules/@vue/cli-plugin-babel/node_modules/babel-loader/lib??ref--12-1!/Users/kusillus/.config/yarn/global/node_modules/cache-loader/dist/cjs.js??ref--0-0!/Users/kusillus/.config/yarn/global/node_modules/vue-loader/lib??vue-loader-options!./page-one.vue?vue&type=script&lang=js&
 //
@@ -532,7 +532,7 @@ var staticRenderFns = []
 //
 //
 /* harmony default export */ var lib_vue_loader_options_page_onevue_type_script_lang_js_ = ({
-  // name: 'DemoExternalComponent',
+  name: 'DemoExternalComponent',
   data: function data() {
     return {
       saludo: 'Hola amiguitos bienvenidos a mi componente.'

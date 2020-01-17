@@ -9,7 +9,7 @@
 
 <script>
 export default {
-    // name: 'DemoExternalComponent',
+    name: 'DemoExternalComponent',
     data(){
         return {
             saludo: 'Hola amiguitos bienvenidos a mi componente.'
